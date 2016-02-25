@@ -1,0 +1,1 @@
+screen -S uhc -p 0 -X stuff "gamemode 3 @a[score_Spectate_min=1]$(printf \\r)"
